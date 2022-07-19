@@ -4,11 +4,10 @@
 
 🔭 Estudo backend em node.js através da parceria iFood + Digital House
 
-🌱 Estou me descobrindo e me realizando na área de T.I. ainda dando pequenso passos.
+🌱 Ainda engatinhando no caminho do desenvolvimento. 😅
 
 <br><br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaxolv&show_icons=true&theme=vision-friendly-dark" alt="jaxolv's stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaxolv&layout=compact&theme=vision-friendly-dark" alt="jaxolv's most languages"/>
 <br/>  
 
 
