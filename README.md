@@ -8,14 +8,8 @@
 
 <br><br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaxolv&show_icons=true&theme=vision-friendly-dark" alt="jaxolv's stats"/>
-<br/>  
-
-
-## 🛠 &nbsp;Tech Stack
-<div align="center">
-<table><tr><td valign="center" width="33%">
-
-<div align="center">
+<br/> 
+<div align="right">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="46,6" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
