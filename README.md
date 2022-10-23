@@ -4,7 +4,7 @@
 - 🔭 Migrando para o desenvolvimento web  
   
 
-- 🌱 Atualmente, estou estudando node.js  
+- 🌱 Atualmente, sou certificado como desenvolvedor back-end em NodeJS e estou estudando Java.
   
 
 - ⚡ Fun fact: eu já sabia que eu preferiria back-end antes mesmo de ter certeza do que era isso.  
