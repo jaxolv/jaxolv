@@ -1,13 +1,13 @@
-### <div align="center">Olá, sou Jackson Oliveira, desenvolvedor backend Jr. 👨‍💻 em transição de carreira 🚀</div>  
+### <div align="center">Olá, sou Jackson Oliveira</div>  
   
 
-- 🔭 Migrando para o desenvolvimento web  
+- 🔭 Na área de desenvolvimento desde 2021 
   
 
-- 🌱 Atualmente, sou certificado como desenvolvedor back-end em NodeJS e estou estudando Java.
+- 🌱 Aprendi NodeJS mas no momento estou estudando outras oportunidades na área de programação.
   
 
-- ⚡ Fun fact: eu já sabia que eu preferiria back-end antes mesmo de ter certeza do que era isso.  
+- ⚡ Prestes a me formar como Analista de Sistemas pela UniCesumar.  
   
 
 <br/>  
